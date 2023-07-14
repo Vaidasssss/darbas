@@ -6,4 +6,4 @@ from pandas import to_datetime
 
 df = pd.read_csv('gim_mir.csv')
 
-print()
+print("Labas")
