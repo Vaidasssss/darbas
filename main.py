@@ -8,3 +8,4 @@ df = pd.read_csv('gim_mir.csv')
 
 print("Labas")
 print("Viso gero")
+print("132")
