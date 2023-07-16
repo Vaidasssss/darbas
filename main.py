@@ -9,5 +9,10 @@ df = pd.read_csv('gim_mir.csv')
 print("Labas")
 print("Viso gero")
 print("132")
+<<<<<<< HEAD
 print"Bandymas ar veikia"
+=======
+>>>>>>> darbas/div
 print("Matos?")
+
+print()
