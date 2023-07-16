@@ -14,4 +14,4 @@ print"Bandymas ar veikia"
 
 print("Matos?")
 
-print()
+print("Bandom")
